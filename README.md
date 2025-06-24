@@ -9,9 +9,7 @@
 
 - 🎓 Pursuing **B.Tech in AI & Data Science** at JECRC Foundation  
 - 💡 Passionate about **IoT, MERN Stack, Java DSA**, and building real-world projects  
-- 🛠️ Created a **Smart Irrigation System** using NodeMCU + Blynk + Sensors  
-- 🚀 Participated in **Smart India Hackathon 2024** – Top 20 teams in college  
-- 🌱 Currently learning **Backend Development**, **Java DSA**, and **MongoDB**
+- 🌱 Currently learning **Backend Development**, **Java DSA**.
 
 ---
 
