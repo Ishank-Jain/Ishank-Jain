@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Ishank Jain</h1>
 <h3 align="center">B.Tech AI & Data Science (JECRC Foundation) | MERN Stack Learner | IoT & DSA Enthusiast 🚀</h3>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+in+Progress;IOT+Experience;Love+to+Build+;Java+DSA+Learner;Let's+Connect+%F0%9F%92%AC&font=Fira%20Code&center=true&width=440&height=45&color=61DAFB&vCenter=true&pause=1000" align="center" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=MERN+stack+Developer;IOT+Experience;Love+to+Build+;Java+DSA+Learner;Let's+Connect+%F0%9F%92%AC&font=Fira%20Code&center=true&width=440&height=45&color=61DAFB&vCenter=true&pause=1000" align="center" alt="Typing SVG" />
 
 ---
 
